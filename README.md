@@ -27,6 +27,7 @@ To design, implement, and deploy a personalized Netflix recommendation system th
 - **Deployment** : The model would be deploy using Streamlit, so users can interact with the system and get recommendation.
 - **Output** : Streamlit application would output 5 recommended TV Shows from user inputs.
 - **Link to Streamlit** : https://mdproject-jugekarbnv5g2f4wrdxdjd.streamlit.app/
+- **Original github repository for the project** : https://github.com/IceKhoffi/md_project/tree/main 
 
 
 
